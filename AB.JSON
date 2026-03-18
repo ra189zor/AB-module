@@ -1,17 +1,17 @@
 {
   "sourceName": "AB",
-  "iconUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/AB/icon.jpg",
+  "iconUrl": "https://raw.githubusercontent.com/ra189zor/AB-module/main/geometric-icon-logo-geometric-abstract-element-free-vector.jpg",
   "author": {
     "name": "AB",
-    "icon": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/AB/icon.jpg"
-  },
+    "icon": "https://raw.githubusercontent.com/ra189zor/AB-module/main/geometric-icon-logo-geometric-abstract-element-free-vector.jpg"
+},
   "version": "1.0.0",
   "language": "Multi-Language",
   "streamType": "mp4",
   "quality": "1080p",
   "baseUrl": "https://streamingunity.buzz/en",
   "searchBaseUrl": "https://streamingunity.buzz/en/search?query=%s",
-  "scriptUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/AB/AB.js",
+  "scriptUrl": "https://raw.githubusercontent.com/ra189zor/AB-module/main/AB.JS",
   "asyncJS": true,
   "streamAsyncJS": true,
   "softsub": true
